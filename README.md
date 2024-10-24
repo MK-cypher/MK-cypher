@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MK-cypher
+- 👋 Hi, I’m Adel Mekki (@MK-cypher)
 - 👀 I’m interested in web development and game making
 - 👨‍💻 I build full-stack web applications
 - 💜 Favorite stack: NEXT.js/Tailwind/Supabase
